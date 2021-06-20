@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035018993818",
+    "firebase_url": "https://peeku-3a2a1.firebaseio.com",
+    "project_id": "peeku-3a2a1",
+    "storage_bucket": "peeku-3a2a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035018993818:android:6494f35de9f6f6b4bd5f23",
+        "android_client_info": {
+          "package_name": "com.imagin.peeku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035018993818-mo0cik8e2v2ds650cl18u0drgbbfdu96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAHCbLl9K4VGOgEYYHM7Fc_6oC3YK8YcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035018993818-mo0cik8e2v2ds650cl18u0drgbbfdu96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
